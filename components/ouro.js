@@ -7,7 +7,7 @@ export default function Prata(){
   return(
     <View style={styles.container}>
     <ImageBackground style= {styles.imgfundo} resizeMode="cover" source={imagem}>
-    <Text style={styles.titulo}>Medalhas de Prata</Text>
+    <Text style={styles.titulo}>Medalhas de Ouro</Text>
 
     <ScrollView>
     <Text style={styles.categoriab}>Maratona Aquática</Text>
